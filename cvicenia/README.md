@@ -4,18 +4,18 @@
 
 |     |        | Cvičenie (notebooks)                                 | Projekt                                      |
 | :---| :----: | ---------------------------------------------------: | -------------------------------------------: |
-| 1.  | 2021   | Python virtual environments                          | Hľadanie partnera na projekt                 |
-| 2.  | 2021   | Python a knižnice na prácu s dátami                  |                                              |
-| 3.  | 2021   | Základy prieskumnej analýzy a vizualizácie údajov    | **Zadanie projektu** + Organizácia v dvojiciach |
-| 4.  | 2021   | Python a knižnice s dátami (pokračovanie)            |                                              |
-| 5.  | 2021   | Prieskumná analýza s využitím štatistickej analýzy   |                                              |
-| 6.  | 2021   | Predspracovanie dát v Pythone                        | Odovzdávanie 1. fázy do AISu do **31.10.2021 23:59**  |
-| 7.  | 2021   | Extrakcia atribútov pre strojové učenie pomocou NLP  |                                              |
-| 8.  | 2021   | Výber a vyhodnotenie modelov                         |                                              |
-| 9.  | 2021   | Vybrané metódy strojového učenia                     | **Bonus** + Odovzdávanie 2. fázy do AISu do **21.11.2021 23:59**  |
-| 10. | 2021   | Vybrané metódy strojového učenia                     |                                              |
-| 11. | 2021   | Optimalizácia + Apache Spark                         |                                              |
-| 12. | 2021   | Vybrané architektúry hlbokého učenia                 | Odovzdávanie 3. fázy do AISu do **12.12.2021 23:59**  |
+| 1.  | 2022   | Python virtual environments                          | Hľadanie partnera na projekt                 |
+| 2.  | 2022   | Python a knižnice na prácu s dátami                  |                                              |
+| 3.  | 2022   | Základy prieskumnej analýzy a vizualizácie údajov    | **Zadanie projektu** + Organizácia v dvojiciach |
+| 4.  | 2022   | Python a knižnice s dátami (pokračovanie)            |                                              |
+| 5.  | 2022   | Prieskumná analýza s využitím štatistickej analýzy   |                                              |
+| 6.  | 2022   | Predspracovanie dát v Pythone                        | Odovzdávanie 1. fázy do AISu do **31.10.2021 23:59**  |
+| 7.  | 2022   | Extrakcia atribútov pre strojové učenie pomocou NLP  |                                              |
+| 8.  | 2022   | Výber a vyhodnotenie modelov                         |                                              |
+| 9.  | 2022   | Vybrané metódy strojového učenia                     | **Bonus** + Odovzdávanie 2. fázy do AISu do **21.11.2021 23:59**  |
+| 10. | 2022   | Vybrané metódy strojového učenia                     |                                              |
+| 11. | 2022   | Optimalizácia + Apache Spark                         |                                              |
+| 12. | 2022   | Vybrané architektúry hlbokého učenia                 | Odovzdávanie 3. fázy do AISu do **12.12.2021 23:59**  |
 |     |        |                                                      |                                              |
 
 Bonusové zadanie: odovzdávanie do systému AIS do **20.12.2021 00:00**. Pozor: len jeden termín lebo ide skúšobné obdobie.
