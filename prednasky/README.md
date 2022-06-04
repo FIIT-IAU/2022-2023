@@ -1,6 +1,6 @@
 # Inteligentná analýza údajov - Intelligent Data Analysis 
 ## Introduction to Data Science 
-## Prednášky / Lectures
+## Prednášky / Lectures - to be updated asap
 
 |         | EN                                                          | SK                                                          |
 | :-------| ----------------------------------------------------------: | ----------------------------------------------------------: |
