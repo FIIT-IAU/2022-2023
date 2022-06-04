@@ -10,9 +10,6 @@
 
 ## Učebnica predmetu / Course textbook: [Introduction to Data Science](http://elvira.fiit.stuba.sk/)
 
-Literatúry - Literature
-------------
-
 - Nguyen, G., 2022. Introduction to Data Science. Spektrum STU Publishing, ISBN 978-80-227-5193-3. Available in [ [ ELVIRA ] ](http://elvira.fiit.stuba.sk/).
 ```
     @book{nguyen2022ds,   
@@ -24,6 +21,8 @@ Literatúry - Literature
       url = {http://elvira.fiit.stuba.sk/}
     }
 ```
+#### Literatúry - Literature
+
 - McKinney, W., 2022. Python for Data Analysis. O'Reilly Media, Inc. ISBN 978-1098104030
 
 - Shaw, Z.A., 2017. Learn Python 3 The Hard Way: A very simple introduction to the terrifyingly beautiful world of computers and code. Addison-Wesley Professional. ISBN 978-0134692883. 
