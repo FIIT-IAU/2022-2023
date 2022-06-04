@@ -24,6 +24,6 @@ Literatúry - Literature
       url = {http://elvira.fiit.stuba.sk/}
     }
 ```
-- McKinney, W., 2022. Python for data analysis. O'Reilly Media, Inc. ISBN 978-1098104030
+- McKinney, W., 2022. Python for Data Analysis. O'Reilly Media, Inc. ISBN 978-1098104030
 
-- Shaw, Z.A., 2017. Learn Python 3 the hard way: A very simple introduction to the terrifyingly beautiful world of computers and code. Addison-Wesley Professional. ISBN 978-0134692883. 
+- Shaw, Z.A., 2017. Learn Python 3 The Hard Way: A very simple introduction to the terrifyingly beautiful world of computers and code. Addison-Wesley Professional. ISBN 978-0134692883. 
