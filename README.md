@@ -1,5 +1,5 @@
 #  Inteligentná analýza údajov - Intelligent Data Analysis
-## Introduction to Data Science
+## [ Course textbook - Učebnica predmetu: Introduction to Data Science](http://elvira.fiit.stuba.sk/)
 
 ## [Prednášky / Lectures](https://github.com/FIIT-IAU/2022-2023/tree/master/prednasky)
 
