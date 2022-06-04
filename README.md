@@ -21,7 +21,7 @@
       url = {http://elvira.fiit.stuba.sk/}
     }
 ```
-### Literatúry / Other recommended literature
+### Odporúčaná literatúra / Recommended literature
 
 - McKinney, W., 2022. Python for Data Analysis. O'Reilly Media, Inc. ISBN 978-1098104030
 
