@@ -18,4 +18,4 @@
 | 10.     | [Numerical optimization and simulations](https://docs.google.com)                    | [Numerická optimalizácia a simulácie](https://docs.google.com)                          |
 | 11.     | [Big Data processing and modeling - Spark, GPU and DL](https://docs.google.com) | [Big Data processing and modeling - Spark, GPU and DL](https://docs.google.com)  
 | 12.     | [Advanced topics in Data Science and Artificial Intelligence](https://docs.google.com) | [Pokročilé témy v oblasti dátovej vedy a umelej inteligencie](https://docs.google.com) |
-|         | [Course exam](https://docs.google.com/presentation/d/1xiA0Zbf0yjclzLK3JaZlY12xiJw14droYZ00y1KLgzY/edit#slide=id.g1357ef73c2c_0_0))               | [Skúška](https://docs.google.com/presentation/d/1xiA0Zbf0yjclzLK3JaZlY12xiJw14droYZ00y1KLgzY/edit#slide=id.g1357ef73c2c_0_0))             |
+|         | [Course exam](https://docs.google.com/presentation/d/1xiA0Zbf0yjclzLK3JaZlY12xiJw14droYZ00y1KLgzY/edit#slide=id.g1357ef73c2c_0_0)               | [Skúška](https://docs.google.com/presentation/d/1xiA0Zbf0yjclzLK3JaZlY12xiJw14droYZ00y1KLgzY/edit#slide=id.g1357ef73c2c_0_0)             |
