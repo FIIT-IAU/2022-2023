@@ -19,4 +19,3 @@
 | 11.     | [Big Data processing and modeling - Spark, GPU and DL](https://docs.google.com) | [Big Data processing and modeling - Spark, GPU and DL](https://docs.google.com)  
 | 12.     | [Advanced topics in Data Science and Artificial Intelligence](https://docs.google.com) | [Pokročilé témy v oblasti dátovej vedy a umelej inteligencie](https://docs.google.com) |
 |         | [Course exam](https://docs.google.com)                      | [Skúška](https://docs.google.com)             |
-|         |                                                             |                                                             |
