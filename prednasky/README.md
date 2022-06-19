@@ -8,7 +8,7 @@
 | 1.      | [Introduction to Data Science](https://docs.google.com/presentation/d/1T2GepEesG50V511BPxIjceNvMau3F53ExSBZGcJ1eAY/present?usp=sharing)     | [Úvod do inteligentnej analýzy údajov](https://docs.google.com/presentation/d/1T2GepEesG50V511BPxIjceNvMau3F53ExSBZGcJ1eAY/present?usp=sharing)       |
 | 1.      | [Introduction to Data Processing in Python](https://docs.google.com/presentation/d/1aLlG-6wO3CPJuaYQkjo0pLRVfQ-fsaUgVluKTOWfGcU/present?usp=sharing) | [Úvod do spracovania údajov v jazyku Python](https://docs.google.com/presentation/d/1aLlG-6wO3CPJuaYQkjo0pLRVfQ-fsaUgVluKTOWfGcU/present?usp=sharing) |
 | 2.      | [Exploratory Data Analysis and Data Visualization](https://docs.google.com)            | [Prieskumná analýza a vizualizácia údajov](https://docs.google.com)                    |
-| 3.      | [Data Gathering and Data Integration](https://docs.google.com)                         | [Získavanie a prepájanie údajov](https://docs.google.com)                              |
+| 3.      | [Data Collection and Data Integration](https://docs.google.com)                        | [Získavanie a prepájanie údajov](https://docs.google.com)                              |
 | 4.      | [Exploratory Data Analysis using Statistical Analysis](https://docs.google.com)        | [Prieskumná analýza s využitím štatistickej analýzy](https://docs.google.com)          |
 | 5.      | [Data Cleaning and Data Preprocessing](https://docs.google.com)                        | [Čistenie a predspracovanie údajov](https://docs.google.com)                           |
 | 6.      | [Preprocessing of Textual Data](https://docs.google.com)                               | [Predspracovanie textových dát](https://docs.google.com)                               |
