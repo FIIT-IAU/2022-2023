@@ -1,0 +1,11 @@
+numpy
+scipy=1.6.1
+sympy
+pandas
+pandasql
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+
