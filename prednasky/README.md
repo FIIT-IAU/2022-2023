@@ -13,7 +13,7 @@
 | 5.      | [Data Cleaning and Data Preprocessing](https://docs.google.com)                        | [Čistenie a predspracovanie údajov](https://docs.google.com)                           |
 | 6.      | [Preprocessing of Textual Data](https://docs.google.com)                               | [Predspracovanie textových dát](https://docs.google.com)                               |
 | 7.      | [Performance Evaluation and Model Selection](https://docs.google.com)                  | [Vyhodnocovanie a výber modelov](https://docs.google.com)                              |
-| 8.      | [Linear Regression and Logistic Regression](https://docs.google.com)                   | [Lineárna a logistická regresia](https://docs.google.com)                              |
+| 8.      | [Linear Regression and Logistic Regression](https://docs.google.com)                   | [Lineárna regresia a logistická regresia](https://docs.google.com)                              |
 | 9.      | [Decision Trees](https://docs.google.com)                                              | [Rozhodovacie stromy](https://docs.google.com)                                         |
 | 10.     | [Numerical Optimization and Simulations](https://docs.google.com)                      | [Numerická optimalizácia a simulácie](https://docs.google.com)                          |
 | 11.     | [Deep Learning and Big Data Processing](https://docs.google.com) | [Hlboké učenie a spracovanie veľkých dát](https://docs.google.com)  
