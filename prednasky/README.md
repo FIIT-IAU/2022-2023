@@ -4,7 +4,7 @@
 
 |         | EN                                                          | SK                                                          |
 | :-------| ----------------------------------------------------------: | ----------------------------------------------------------: |
-| 1.      | [Course Organization](https://docs.google.com/presentation/d/11D6YjQac9Pl9Z7vu-snNGrgbjRvZehmLkZ8HzDHjA7E/present?usp=sharing)              | [Organizácia predmetu](https://docs.google.com/presentation/d/11D6YjQac9Pl9Z7vu-snNGrgbjRvZehmLkZ8HzDHjA7E/present?usp=sharing)             |
+|         | [Course Organization](https://docs.google.com/presentation/d/11D6YjQac9Pl9Z7vu-snNGrgbjRvZehmLkZ8HzDHjA7E/present?usp=sharing)              | [Organizácia predmetu](https://docs.google.com/presentation/d/11D6YjQac9Pl9Z7vu-snNGrgbjRvZehmLkZ8HzDHjA7E/present?usp=sharing)             |
 | 1.      | [Introduction to Data Science](https://docs.google.com/presentation/d/1T2GepEesG50V511BPxIjceNvMau3F53ExSBZGcJ1eAY/present?usp=sharing)     | [Úvod do inteligentnej analýzy údajov](https://docs.google.com/presentation/d/1T2GepEesG50V511BPxIjceNvMau3F53ExSBZGcJ1eAY/present?usp=sharing)       |
 | 1.      | [Introduction to Data Processing in Python](https://docs.google.com/presentation/d/1aLlG-6wO3CPJuaYQkjo0pLRVfQ-fsaUgVluKTOWfGcU/present?usp=sharing) | [Úvod do spracovania údajov v jazyku Python](https://docs.google.com/presentation/d/1aLlG-6wO3CPJuaYQkjo0pLRVfQ-fsaUgVluKTOWfGcU/present?usp=sharing) |
 | 2.      | [Exploratory Data Analysis and Data Visualization](https://docs.google.com)            | [Prieskumná analýza a vizualizácia údajov](https://docs.google.com)                    |
