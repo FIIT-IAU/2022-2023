@@ -15,7 +15,7 @@
 | 7.      | [Performance Evaluation and Model Selection](https://docs.google.com)                  | [Vyhodnocovanie a výber modelov](https://docs.google.com)                              |
 | 8.      | [Linear Regression and Logistic Regression](https://docs.google.com)                   | [Lineárna a logistická regresia](https://docs.google.com)                              |
 | 9.      | [Decision Trees](https://docs.google.com)                                              | [Rozhodovacie stromy](https://docs.google.com)                                         |
-| 10.     | [Numerical Optimization and Simulations](https://docs.google.com)                    | [Numerická optimalizácia a simulácie](https://docs.google.com)                          |
-| 11.     | [Big Data Processing and Modeling - Spark, GPU and DL](https://docs.google.com) | [Big Data processing and modeling - Spark, GPU and DL](https://docs.google.com)  
+| 10.     | [Numerical Optimization and Simulations](https://docs.google.com)                      | [Numerická optimalizácia a simulácie](https://docs.google.com)                          |
+| 11.     | [Deep Learning and Big Data Processing](https://docs.google.com) | [Deep Learning and Big Data Processing](https://docs.google.com)  
 | 12.     | [Advanced Topics in Data Science and Artificial Intelligence](https://docs.google.com/presentation/d/1rAUZ_t3Obkag-C24i5_PLTltjiAyG1zSdLpAfcCmhOc/present?usp=sharing) | [Pokročilé témy v oblasti dátovej vedy a umelej inteligencie](https://docs.google.com/presentation/d/1rAUZ_t3Obkag-C24i5_PLTltjiAyG1zSdLpAfcCmhOc/present?usp=sharing) |
 |         | [Course exam](https://docs.google.com/presentation/d/1xiA0Zbf0yjclzLK3JaZlY12xiJw14droYZ00y1KLgzY/present?usp=sharing)               | [Skúška](https://docs.google.com/presentation/d/1xiA0Zbf0yjclzLK3JaZlY12xiJw14droYZ00y1KLgzY/present?usp=sharing)             |
