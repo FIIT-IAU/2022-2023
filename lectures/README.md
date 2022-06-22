@@ -1,5 +1,5 @@
 ## Intelligent Data Analysis - Inteligentná analýza údajov - Introduction to Data Science 
-## Lectures / Prednášky - to be updated asap
+## Lectures / Prednášky - STU GSuite access - to be updated asap
 
 |         | EN                                                          | SK                                                          |
 | :-------| ----------------------------------------------------------: | ----------------------------------------------------------: |
