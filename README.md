@@ -1,4 +1,4 @@
-#  Intelligent Data Analysis - Inteligentná analýza údajov
+#  Intelligent Data Analysis - Inteligentná analýza údajov 
 
 ### [Lectures / Prednášky](https://github.com/FIIT-IAU/2022-2023/tree/master/lectures)
 
