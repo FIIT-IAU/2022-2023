@@ -14,7 +14,7 @@
 ```
     @book{nguyen2022ds,   
       author = {Nguyen, Giang},  
-      isbn = {978-80-227-5193-3},   
+      ISBN = {978-80-227-5193-3},   
       publisher = {Spektrum STU Publishing},  
       title = {{Introduction to Data Science}},  
       year = {2022},
