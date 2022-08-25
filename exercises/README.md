@@ -17,7 +17,7 @@
 | 12. | 2022   | Vybrané architektúry hlbokého učenia: CNN, RNN       | Odovzdávanie 3. fázy do AISu do **11.12.2021 23:59**  |
 |     |        |                                                      |                                              |
 
-Bonusové zadanie: odovzdávanie do systému AIS do **18.12.2021 00:00**. Pozor: len jeden termín lebo ide skúšobné obdobie.
+Bonusové zadanie: odovzdávanie do systému AIS do **19.12.2021 00:00**. Pozor: len jeden termín lebo ide skúšobné obdobie.
 
 ## Upozornenie
 
