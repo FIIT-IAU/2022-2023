@@ -2,9 +2,7 @@
 **Typ štúdia:** bakalárske  
 **Počet kreditov:** 6  
 **Semester:** zimný     
-
 **Prednášky:**  Štvrtok     
-
 **Cvičenie:**   Pondelok, Utorok, Streda, Štvrtok, Piatok   
 
 ## Podmienky na absolvovanie predmetu
