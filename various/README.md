@@ -3,7 +3,7 @@
 **Počet kreditov:** 6  
 **Semester:** zimný     
 
-**Prednášky:**  Štvrtok, -1.61, 12:00-13:50      
+**Prednášky:**  Štvrtok     
 
 **Cvičenie:**
 * Pondelok, Utorok, Streda, Štvrtok, Piatok   
