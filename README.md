@@ -14,9 +14,9 @@
 ```
     @book{nguyen2022ds,   
       author = {Nguyen, Giang},  
-      ISBN = {978-80-227-5193-3},   
-      publisher = {Spektrum STU Publishing},  
-      title = {{Introduction to Data Science}},  
+      title = {{Introduction to Data Science}}, 
+      publisher = {Spektrum STU Publishing},
+      ISBN = {978-80-227-5193-3}, 
       year = {2022},
       url = {http://elvira.fiit.stuba.sk/}
     }
