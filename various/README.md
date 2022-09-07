@@ -2,8 +2,8 @@
 **Typ štúdia:** bakalárske  
 **Počet kreditov:** 6  
 **Semester:** zimný     
-**Prednášky:**  Štvrtok     
-**Cvičenie:**   ...   
+**Prednášky:**       
+**Cvičenie:**     
 
 ## Podmienky na absolvovanie predmetu
 Cvičenie a projekt vo dvojiciach: **max. 60% = 60 bodov**
