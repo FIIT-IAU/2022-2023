@@ -23,7 +23,7 @@ Bonusové zadanie: odovzdávanie do systému AIS do **19.12.2021 00:00**. Pozor:
 
 > Odovzdávanie správy projektu sa realizuje v 6. týždni (1. fáza), 9. týždni (2. fáza) a 12. týždni (3. fáza) semestra na cvičení. 
 > 
-> Dvojica svojmu cvičiacemu odprezentuje výsledky v Jupyter Notebooku. Následne správu elektronicky odovzdá jeden člen z dvojice do systému AIS do **30.10.2022 23:59** (1. fáza), **20.11.2022 23:59** (2. fáza) a **11.12.2022 23:59** (3. fáza).
+> Dvojica svojmu cvičiacemu odprezentuje výsledky v Jupyter Notebooku. Následne správu elektronicky odovzdá jeden člen z dvojice do systému AIS do **30.10.2022 23:59** (1. fáza), **20.11.2022 23:59** (2. fáza) a **15.12.2022 23:59** (3. fáza).
 > 
 > V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do systému AIS bude možné danú fázu odovzdať do 7 dní s **50% penalizáciou**. 
 > Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu bude mať za následok neudelenie zápočtu.
