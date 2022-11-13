@@ -12,7 +12,7 @@
 | 7.  | 2022   | Extrakcia atribútov pre strojové učenie pomocou NLP  |                                              |
 | 8.  | 2022   | Výber a vyhodnotenie modelov                         |                                              |
 | 9.  | 2022   | Vybrané metódy strojového učenia                     | **Bonus** + Odovzdávanie 2. fázy do AISu do **20.11.2022 23:59**  |
-| 10. | 2022   | Vybrané metódy strojového učenia                     |                                              |
+| 10. | 2022   | Stromové metódy strojového učenia                    |                                              |
 | 11. | 2022   | Vybrané architektúry hlbokého učenia: CNN, RNN       |                                              |
 | 12. | 2022   | Optimalizácia + Apache Spark                         | Odovzdávanie 3. fázy do AISu do **15.12.2021 23:59**  |
 |     |        |                                                      |                                              |
