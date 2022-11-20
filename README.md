@@ -10,7 +10,7 @@
 
 ### Course textbook / Učebnica predmetu / Základná literatúra / Base literature
 
-- Nguyen, G., 2022. **[Introduction to Data Science](http://elvira.fiit.stuba.sk/library/pdf-viewer/765297eb-be49-4013-857e-ad3438726942)**. Spektrum STU Publishing, ISBN 978-80-227-5193-3. <br>Available at FIIT STU e-library [ [ ELVIRA ] ](http://elvira.fiit.stuba.sk/) with AIS access.
+- Nguyen, G., 2022. **[Introduction to Data Science](https://elvira.fiit.stuba.sk/library/pdf-viewer/765297eb-be49-4013-857e-ad3438726942)**. Spektrum STU Publishing, ISBN 978-80-227-5193-3. <br>Available at FIIT STU e-library [ [ ELVIRA ] ](https://elvira.fiit.stuba.sk/) with AIS access.
 ```
     @book{nguyen2022ds,   
       author = {Nguyen, Giang},  
@@ -18,7 +18,7 @@
       publisher = {Spektrum STU Publishing},
       ISBN = {978-80-227-5193-3}, 
       year = {2022},
-      url = {http://elvira.fiit.stuba.sk/}
+      url = {https://elvira.fiit.stuba.sk/}
     }
 ```
 ### Recommended literature / Odporúčaná literatúra
