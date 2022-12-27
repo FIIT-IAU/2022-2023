@@ -19,7 +19,7 @@
       publisher = {Spektrum STU Publishing},
       ISBN = {978-80-227-5193-3}, 
       year = {2022},
-      url = {https://elvira.fiit.stuba.sk/}
+      url = {https://elvira.fiit.stuba.sk/library/pdf-viewer/765297eb-be49-4013-857e-ad3438726942}
     }
 ```
 ### Recommended literature / Odporúčaná literatúra
