@@ -19,9 +19,9 @@ Skúška: **max. 40% = 40 bodov**
 ## Ďalšie podmienky pre úspešné absolvovanie predmetu:
 1. vypracovanie projektu v akceptovateľnej kvalite, jeho odovzdanie a prezentovanie podľa harmonogramu
 2. aktívna účasť na cvičeniach
-3. získanie aspoň 30% počas semestra
-4. získanie aspoň 20% zo skúšky
-5. získanie aspoň 56% = 56 bodov v súčte za semester a skúšku podľa platnej klasifikačnej stupnice na FIIT STU
+3. získanie aspoň 30% = 30 bodov z celkového hodnotenia počas semestra
+4. získanie aspoň 20% = 20 bodov z celkového hodnotenia zo skúšky
+5. získanie aspoň 56% = 56 bodov v súčte z celkového hodnotenia za semester a skúšku podľa platnej klasifikačnej stupnice na FIIT STU
 
 V prípade nedodržania termínu na odovzdanie jednotlivých fáz projektu do systému AIS bude možné danú fázu odovzdať do 7 dní s 50% penalizáciou. Neskoršie odovzdanie nebude možné. Neodovzdanie niektorej z fáz projektu bude mať za následok neudelenie zápočtu.
 
