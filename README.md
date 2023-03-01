@@ -24,7 +24,7 @@
 ```
 ### Recommended literature / Odporúčaná literatúra
 
-- GÉRON, A., 2022. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media, Inc. ISBN 1098125975
+- GÉRON, A., 2022. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media, Inc. ISBN 978-1098125974. 3rd edition. 
 
 - MCKINNEY, W., 2022. Python for Data Analysis. O'Reilly Media, Inc. ISBN 978-1098104030
 
