@@ -26,6 +26,6 @@
 
 - GÉRON, A., 2022. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media, Inc. ISBN 978-1098125974. 3rd edition. 
 
-- MCKINNEY, W., 2022. Python for Data Analysis. O'Reilly Media, Inc. ISBN 978-1098104030
+- MCKINNEY, W., 2022. Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Jupyter. O'Reilly Media, Inc. ISBN 978-1098104030. 3rd edition.
 
 - SHAW, Z.A., 2017. Learn Python 3 The Hard Way: A very simple introduction to the terrifyingly beautiful world of computers and code. Addison-Wesley Professional. ISBN 978-0134692883. 
