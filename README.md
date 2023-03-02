@@ -24,8 +24,8 @@
 ```
 ### Recommended literature / Odporúčaná literatúra
 
-- GÉRON, A., 2022. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O'Reilly Media, Inc. ISBN 978-1098125974. 3rd edition. 
+- GÉRON, A., 2022. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1098125975/dp/1098125975/ref=dp_ob_title_bk). O'Reilly Media, Inc. ISBN 978-1098125974. 3rd edition. 
 
-- MCKINNEY, W., 2022. Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Jupyter. O'Reilly Media, Inc. ISBN 978-1098104030. 3rd edition.
+- MCKINNEY, W., 2022. [Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Jupyter](https://www.amazon.com/Python-Data-Analysis-Wrangling-Jupyter/dp/109810403X/ref=sr_1_1?crid=1GWXMACNPM9UG&keywords=Python+for+Data+Analysis%3A+Data+Wrangling+with+Pandas%2C+NumPy%2C+and+Jupyter&qid=1677767594&s=books&sprefix=python+for+data+analysis+data+wrangling+with+pandas%2C+numpy%2C+and+jupyter%2Cstripbooks-intl-ship%2C157&sr=1-1). O'Reilly Media, Inc. ISBN 978-1098104030. 3rd edition.
 
-- SHAW, Z.A., 2017. Learn Python 3 The Hard Way: A very simple introduction to the terrifyingly beautiful world of computers and code. Addison-Wesley Professional. ISBN 978-0134692883. 
+- SHAW, Z.A., 2017. [Learn Python 3 The Hard Way: A very simple introduction to the terrifyingly beautiful world of computers and code](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888/ref=sr_1_1?crid=39O3GH75YNOKR&keywords=Learn+Python+3+The+Hard+Way%3A+A+very+simple+introduction+to+the+terrifyingly+beautiful+world+of+computers+and+code&qid=1677767631&s=books&sprefix=learn+python+3+the+hard+way+a+very+simple+introduction+to+the+terrifyingly+beautiful+world+of+computers+and+code%2Cstripbooks-intl-ship%2C175&sr=1-1). Addison-Wesley Professional. ISBN 978-0134692883. 
