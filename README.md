@@ -8,7 +8,7 @@
 
 ### MS Teams 
 
-### Course textbook / Učebnica predmetu / Základná literatúra / Base literature
+### Course textbook / Učebnica predmetu / Základná literatúra / Base literature 
 
 - NGUYEN, G., 2022. **[Introduction to Data Science](https://elvira.fiit.stuba.sk/library/pdf-viewer/765297eb-be49-4013-857e-ad3438726942)**. The Edition of University Textbooks on Informatics and Information Technologies. Spektrum STU Publishing, ISBN 978-80-227-5193-3. <br>Available at FIIT STU e-library [ ELVIRA ](https://elvira.fiit.stuba.sk/) with AIS access.
 ```
