@@ -22,6 +22,7 @@
       url = {https://elvira.fiit.stuba.sk/library/pdf-viewer/765297eb-be49-4013-857e-ad3438726942}
     }
 ```
+
 ### Recommended literature / Odporúčaná literatúra
 
 - GÉRON, A., 2022. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1098125975/dp/1098125975/ref=dp_ob_title_bk). O'Reilly Media, Inc. ISBN 978-1098125974. 3rd edition. 
