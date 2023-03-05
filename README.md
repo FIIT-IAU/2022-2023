@@ -6,7 +6,7 @@
 
 ### [Course conditions / Podmienky na absolvovanie predmetu](https://github.com/FIIT-IAU/2022-2023/tree/master/various) 
 
-### MS Teams
+### MS Teams 
 
 ### Course textbook / Učebnica predmetu / Základná literatúra / Base literature
 
